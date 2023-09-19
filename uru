@@ -1,0 +1,106 @@
+[33mcommit a44a5c3c3d1bf909ae5454178df7f2ce071d19ca[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 8f8b92c 719ea3d
+Author: kiranpok <112083483+kiranpok@users.noreply.github.com>
+Date:   Tue Sep 19 13:00:12 2023 +0300
+
+    Merge pull request #1 from kiranpok/html-skeleton
+    
+    Updateed index.html, added a new paragraph
+
+[33mcommit 719ea3dea41cb2eb8fb1064e715b20fb1918cd34[m
+Author: kiranpok <112083483+kiranpok@users.noreply.github.com>
+Date:   Tue Sep 19 12:28:51 2023 +0300
+
+    Updateed index.html, added a new paragraph
+
+[33mcommit 8f8b92ca5089bf7a9e8a0d4cd9803f4024f82a4b[m
+Author: Kiran Pokharel <kiran.pokharel@metropolia.fi>
+Date:   Tue Sep 19 11:04:21 2023 +0300
+
+    Updated index.html. Resized image
+
+[33mcommit ad7b34e6a76d541462dcde827bb035ba9bcc827b[m
+Author: kiranpok <112083483+kiranpok@users.noreply.github.com>
+Date:   Tue Sep 19 10:56:35 2023 +0300
+
+    Updateed README.md with a line about focus
+
+[33mcommit afab083d5a29c4dc7a6a2d5bb8a1191096685284[m
+Author: kiranpok <112083483+kiranpok@users.noreply.github.com>
+Date:   Tue Sep 19 10:07:09 2023 +0300
+
+    Update README.md with a line about Github
+
+[33mcommit 3add18dc822d418794269bdbed9fcf3c12c25689[m
+Merge: a75e123 488ff0f
+Author: Kiran Pokharel <kiran.pokharel@metropolia.fi>
+Date:   Tue Sep 19 09:51:53 2023 +0300
+
+    merged with hello world images after fixing conflicts
+
+[33mcommit 488ff0f08ee8edb1062e5397d72db09fa72f5580[m
+Author: Kiran Pokharel <kiran.pokharel@metropolia.fi>
+Date:   Tue Sep 19 09:48:33 2023 +0300
+
+    Added new image and modified index.html
+
+[33mcommit a75e12353ff2a838a2f8eaba230ca4dbf20c7aac[m
+Author: Kiran Pokharel <kiran.pokharel@metropolia.fi>
+Date:   Tue Sep 19 09:25:10 2023 +0300
+
+    Updated index.html with emergency fix
+
+[33mcommit 857da507863f069c8447c57dc1aa6cb7db0960b5[m
+Author: Kiran Pokharel <kiran.pokharel@metropolia.fi>
+Date:   Tue Sep 19 09:21:37 2023 +0300
+
+    added new image to Hello world
+
+[33mcommit 40ebee8d19adc835cd59e007cef18fddefca17af[m
+Author: Kiran Pokharel <kiran.pokharel@metropolia.fi>
+Date:   Tue Sep 19 09:15:26 2023 +0300
+
+    updated index.html to prev version
+
+[33mcommit 6b7043836df9b1756e2128e2f21295032a9f465d[m
+Merge: f719810 1cc01ad
+Author: Kiran Pokharel <kiran.pokharel@metropolia.fi>
+Date:   Mon Sep 18 14:03:57 2023 +0300
+
+    merged with hello world images after fixing conflicts
+
+[33mcommit 1cc01ad12ca78d04dfcc9445d3c43bea7da7773e[m
+Author: Kiran Pokharel <kiran.pokharel@metropolia.fi>
+Date:   Mon Sep 18 13:50:44 2023 +0300
+
+    added new image
+
+[33mcommit 957da32de8e7cb726693df390874ac5f93cc5577[m
+Author: Kiran Pokharel <kiran.pokharel@metropolia.fi>
+Date:   Mon Sep 18 13:47:48 2023 +0300
+
+    added new image
+
+[33mcommit f71981058ab4de6d4d590f53e2765546e6cb9eaf[m
+Author: Kiran Pokharel <kiran.pokharel@metropolia.fi>
+Date:   Mon Sep 18 13:45:35 2023 +0300
+
+    changes in html
+
+[33mcommit 22739471482e5c73027a152102d588017ed51f2c[m
+Author: Kiran Pokharel <kiran.pokharel@metropolia.fi>
+Date:   Mon Sep 18 13:16:22 2023 +0300
+
+    added image to Hello world
+
+[33mcommit 5b3243ef431bf91b8780d26a8fe96e873429acb0[m
+Author: Kiran Pokharel <kiran.pokharel@metropolia.fi>
+Date:   Mon Sep 18 12:57:48 2023 +0300
+
+    new update in index.html
+
+[33mcommit a84a1741cfe3f80437cccaf14d2bd4839fd9f43a[m
+Author: Kiran Pokharel <kiran.pokharel@metropolia.fi>
+Date:   Mon Sep 18 12:56:08 2023 +0300
+
+    first release of hello world
