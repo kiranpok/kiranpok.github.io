@@ -1,27 +1,126 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Hello World!</title>
-<link rel="stylesheet" href="bluestyle.css">
-  <meta charset ="UTF-8">
-  <title>Hello World!</title>
-  <meta name="viewport" content ="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="bluestyle.css">
-  
-  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Portfolio</title>
+    <style>
+        /* Reset some default browser styles */
+        body, h1, h2, p {
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Style the body */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* Header styles */
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        /* Navigation menu styles */
+        nav {
+            background-color: #444;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #fff;
+        }
+
+        /* Main content container */
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+        }
+
+        /* Portfolio item styles */
+        .portfolio-item {
+            margin-bottom: 30px;
+        }
+
+        .portfolio-item img {
+            max-width: 50%;
+            height: auto;
+        }
+
+        /* Footer styles */
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
 </head>
 <body>
+    <header>
+        <h1>Kiran Pokharel</h1>
+        <p>Web Developer</p>
+    </header>
 
-<h1>Hello world!</h1>
-<div><img src="img_hello_world.jpg" alt="Hello World from Space" style="width:80%;max-width:640px"></div>
-<p>This is the first file in my new Git Repo.</p>
-<p>This line is here to show how merging works.</p>
-<p>A 2nd new line in our file!</p>
-<div><img src="img_hello_git1.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
-<p>A 3rd new line in our file!</p>
-<div><img src="img_hello_git2.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
-<h2>Hello World, Again!</h2>
-<p>A 3rd new line in our file!</p>
-  
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#portfolio">Portfolio</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>
+                Welcome to my portfolio website. I am a web developer passionate about creating beautiful and functional websites.
+                Here, you can learn more about me and view some of my recent projects.
+            </p>
+        </section>
+
+        <section id="portfolio">
+            <h2>Portfolio</h2>
+            <div class="portfolio-item">
+                <img src="project1.jpg" alt="Project 1">
+                <h3>Project 1</h3>
+                <p>Description of Project 1.</p>
+            </div>
+            <div class="portfolio-item">
+                <img src="project2.jpg" alt="Project 2">
+                <h3>Project 2</h3>
+                <p>Description of Project 2.</p>
+            </div>
+            <!-- Add more portfolio items as needed -->
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>If you would like to get in touch, please email me at <a href="mailto:your@email.com">kiran.pokharel@metropolia.fi</a>.</p>
+        </section>
+    </div>
+
+    <footer>
+        &copy; 2023 Your Name
+    </footer>
 </body>
 </html>
